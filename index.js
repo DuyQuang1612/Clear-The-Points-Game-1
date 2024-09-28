@@ -49,5 +49,5 @@ const App = () => {
   );
 };
 
-// Render React app to the root element.
+// Render React app to the root element
 ReactDOM.render(<App />, document.getElementById('root'));
